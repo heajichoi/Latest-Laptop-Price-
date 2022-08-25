@@ -1,5 +1,5 @@
 # Using the latest Laptop Specs and Price 
-
+EDA project
   * Specifications and price of 1000 laptops 
   Data set includes: 
      1. brand
